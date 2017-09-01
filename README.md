@@ -1,4 +1,4 @@
-# AIRI400 sample codes for the lecture of Introduction to artificial neural network 
+# Sample codes for the Introduction to Artificial Neural Network classes of [AIRI400](http://airi.kr/research-division/notice/?mod=document&uid=28) AI training program
 
 Basic algorithms of perceptron
 
