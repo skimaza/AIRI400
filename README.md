@@ -2,6 +2,6 @@
 
 Basic algorithms of perceptron
 
-Codes in this directory are modified versions of the original authors' to serve course's purpose.
+Codes in this directory are modified versions of the original authors' to serve course's purpose. Original authors are manifested at the top of each file.
 
 SeokWon Kim
